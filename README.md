@@ -75,7 +75,7 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
 #### Application User Interface (UI) and User Experience (UX)
 >Implementation of the visual and navigational components of an application's design. This includes constructing layouts–using both XML and Java code–that consist of the standard framework UI elements as well as custom views. Candidates should have a working knowledge of using view styles and theme attributes to apply a consistent look and feel across an entire application. Understanding of how to include features that expand the application's audience through accessibility and localization may also be required.
 
-- [ ] [[Fragmented Podcast] Episode 071: UI UX development with GDE Raveesh](http://fragmentedpodcast.com/episodes/71/) 
+- [x] [[Fragmented Podcast] Episode 071: UI UX development with GDE Raveesh](http://fragmentedpodcast.com/episodes/71/) 
 
 - [ ] Mock up the main screens and navigation flow of the application
   - [ ] [[Udacity Course] Developing Android Apps Lesson: Completing the UI - Accessibility](https://www.udacity.com/course/new-android-fundamentals--ud851)
